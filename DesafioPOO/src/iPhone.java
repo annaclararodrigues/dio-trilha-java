@@ -27,6 +27,7 @@ public class iPhone implements ReprodutorMusical, AparalhoTelefonico, NavegadorW
     public void atender() {
         System.out.println("Atendendo ligação");
     }
+    
 
     @Override
     public void iniciarCorreioVoz() {
